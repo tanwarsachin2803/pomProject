@@ -1,0 +1,75 @@
+Types of testing
+
+Black Box Testing
+Black box testing is a type of software testing, which checks for the functionality of a software or an application without knowing the design, internal components, or structure of an application to be tested. It is also referred to as Specifications-based testing.
+
+The black box testing method is mainly used to find missing functions, performance errors, initialization errors, and errors while accessing the external database.
+
+The testing techniques of black-box testing include
+
+Equivalence Partitioning – In equivalence partitioning, the input data of an application to be tested into equal partitions. This technique ensures to cover each partition at least once.
+
+Boundary Value Analysis – In boundary value analysis is a technique used in which the testing of an application is done using the boundary values.
+
+Cause-effect Graph – In this type of testing technique, causes are the inputs of a program and effects as the outputs of the program. Here, a graphical representation is used to show the relationship between the input and output and the factors that impact the outcome
+
+Error Guessing – The error guessing testing method utilizes the skills and experience of the tester to detect errors when tools fail to do.
+
+All-pairs Testing – In this approach, the software is tested using a combinatorial method to test all the possible discrete combinations of the parameters involved.
+
+White Box Testing
+White box testing is a method of software testing that tests internal programming structures of an application. This type of testing technique is known as clear box testing, open box testing, structural testing, and transparent box testing. Its operation is opposite to black-box testing and is used at unit, integration, and system levels of the testing process.
+
+The testing techniques of white-box testing include:
+
+Statement Coverage – In this technique, all programming statements are applied with a minimal number of tests.
+Branch Coverage – In this type of technique, all branches shall be tested by running them a sequence of tests.
+Path Coverage – All paths including statements and branches are tested using this technique.
+
+Functional Testing
+Functional testing is an approach that is used to verify every functionality of the software and each function complies with the given requirement. Functional testing is divided into four types:
+
+Unit Testing
+In unit testing, each component or individual units of the software shall be tested. The aim of the unit testing is to check internal data structures, logic, boundary conditions for input and output data as per the design.
+
+Integration Testing
+In integration testing, individual units are integrated and tested to understand if the integrated components work efficiently.
+
+System Testing
+The purpose of system testing is to verify that all the system elements are tested and its overall function and
+performance comply with the specific requirements. In this approach, the system’s hardware and software components are
+integrated and tested as a whole.
+
+Acceptance Testing
+Is the developed software ready for delivery? This type of testing helps to identify if the application is ready for
+delivery and meets the business requirements. Alpha testing and Beta testing are the two types of acceptance testing.
+
+Non-functional Testing
+The non-functional attributes of software such as performance, usability, security, reliability, and quality are tested
+in non-functional types of testing. The quality and performance of the software can be enhanced with non-functional
+testing. Various types of non-functional testing include:
+
+Performance testing
+Performance testing is performed to ensure that the software applications should be able to handle the workload well
+with increased performance. There are four kinds of performance testing, which include Load testing, Stress testing,
+Endurance testing, Spike testing.
+
+Security testing
+Security experts use the security level of testing to ensure that the system and application are protected from all
+types of loopholes. This testing provides security to the application and protects the loss of information.
+
+Usability testing
+The usability testing checks for usability and user-friendliness of the software. This test is performed to determine
+if the software is seamless to use by any user.
+
+Compatibility testing
+In this level of testing, compatibility of the software is tested for different operating systems, internet browsers,
+and so on. Such as an Android app is checked if it is compatible with different versions of Android OS.
+
+Sanity testing
+Its a small version of regression testing where we check that the bugs are fixed and
+important functionalities are working or not. It is carried out only when the smoke testing is completed or not
+
+Smoke Testing
+It is the pre check of the software after the build and before a release. This type of testing finds basic and critical
+issues in an application before critical testing is done.

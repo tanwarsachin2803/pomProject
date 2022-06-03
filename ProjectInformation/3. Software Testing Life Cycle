@@ -1,0 +1,54 @@
+There are following six major phases in every Software Testing Life Cycle Model (STLC Model):
+
+Requirement Analysis
+Test Planning
+Test case development
+Test Environment setup
+Test Execution
+Test Cycle closure
+
+What is Entry and Exit Criteria in STLC?
+Entry Criteria: Entry Criteria gives the prerequisite items that must be completed before testing can begin.
+Exit Criteria: Exit Criteria defines the items that must be completed before testing can be concluded
+
+1. Requirement Phase Testing
+Requirement Phase Testing also known as Requirement Analysis in which test team studies the requirements from a testing
+point of view to identify testable requirements and the QA team may interact with various stakeholders to understand
+requirements in detail. Requirements could be either functional or non-functional. Automation feasibility for the
+testing project is also done in this stage.
+
+2. Test Planning Activities
+Preparation of test plan/strategy document for various types of testing
+Test tool selection
+Test effort estimation
+Resource planning and determining roles and responsibilities.
+Training requirement
+
+3. Test Case Development Activities
+Create test cases, automation scripts (if applicable)
+Review and baseline test cases and scripts
+Create test data (If Test Environment is available)
+
+4. Test Environment Setup Activities
+
+Understand the required architecture, environment set-up and prepare hardware and software requirement list for the Test Environment.
+Setup test Environment and test data
+Perform smoke test on the build
+
+Test Execution Activities
+
+Execute tests as per plan
+Document test results, and log defects for failed cases
+Map defects to test cases in RTM
+Retest the Defect fixes
+Track the defects to closure
+
+Test Cycle Closure Activities
+
+Evaluate cycle completion criteria based on Time, Test coverage, Cost,Software, Critical Business Objectives, Quality
+Prepare test metrics based on the above parameters.
+Document the learning out of the project
+Prepare Test closure report
+Qualitative and quantitative reporting of quality of the work product to the customer.
+Test result analysis to find out the defect distribution by type and severity.
+
